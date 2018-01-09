@@ -3,6 +3,6 @@ describe('Facebook', function() {
         cy.visit('https://www.facebook.com');
     });
     it('<title> is "facebook"', function() {
-        cy.title().should('include', 'Google');
+        cy.title().should('include', 'Facebook');
     });
 });
