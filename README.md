@@ -2,6 +2,11 @@
 
 For issue https://github.com/cypress-io/cypress/issues/506
 
+To reproduce:
+`npm install`
+
+`npm run cypress:run`
+
 ## Getting Started
 
 * Set up: `npm install`
